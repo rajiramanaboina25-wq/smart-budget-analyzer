@@ -1,2 +1,2 @@
-# smart-budget-analyzer
-Python-based application for tracking income and expenses
+smart-city-traffic-management
+Deep learning-based acoustic vehicle detection system for smart city traffic management
